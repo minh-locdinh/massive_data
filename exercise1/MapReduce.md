@@ -47,7 +47,7 @@ Nền tảng MapReduce thực hiện các thủ tục Map() và Reduce() ở tr�
 *Partition Function
 *Compare Function
 *Reduce Function
-Output Writer
+*Output Writer
 
 
 
