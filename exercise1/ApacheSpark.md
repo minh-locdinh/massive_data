@@ -27,13 +27,13 @@ theo Stream, học máy, và các thuật toán đồ thị (Graph)
 
 **Các thành phần của Apache Spark**
 
-![introduce](https://laptrinh.vn/uploads/images/gallery/2019-10/spark-stack.png)
+![introduce](https://www.tutorialandexample.com/wp-content/uploads/2020/03/Apache-Spark-Components.png)
 
 * Apache Spark Core: Spark Core là thành phần cốt lõi thực thi cho tác vụ cơ bản làm nền
 tảng cho các chức năng khác. Nó cung cấp khảnăng tính toán trên bộ nhớ và dataset trong
 bộ nhớ hệ thống lưu trữ ngoài.
 
-* Spark SQL: Là một thành phần nằm trên Spark Core, nó cung cấp một sựảo hóa mới cho dữ
+* Spark SQL: Là một thành phần nằm trên Spark Core, nó cung cấp một sự ảo hóa mới cho dữ
 liệu là SchemaRDD, hỗ trợ các dữ liệu có cấu trúc và bán cấu trúc.
 
 * Spark Streaming: Cho phép thực hiện phân tích xử lý trực tuyến xử lý theo lô.
@@ -42,7 +42,7 @@ liệu là SchemaRDD, hỗ trợ các dữ liệu có cấu trúc và bán cấu
 do kiến trúc phân tán dựa trên bộ nhớ. Theo các so sánh benchmark Spark MLlib nhanh hơn
 9 lần so với phiên bản chạy trên Hadoop (Apache Mahout).
 
-* GrapX: Grapx là nền tảng xử lý đồ thị dựa trên Spark. Nó cung cấp các Api để diễn tảcác
+* GrapX: Grapx là nền tảng xử lý đồ thị dựa trên Spark. Nó cung cấp các Api để diễn tả các
 tính toán trong đồ thị bằng cách sử dụng Pregel Api.
 
 
