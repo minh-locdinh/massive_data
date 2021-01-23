@@ -34,20 +34,20 @@ Nền tảng MapReduce thực hiện các thủ tục Map() và Reduce() ở tr�
 
 **Nền tảng MapReduce có 5 bước khác nhau:**
 
-*Chuẩn bị dữ liệu đầu vào cho Map()
-*Thực thi mã Map() được cung cấp bởi người dùng
-*Trộn dữ liệu xuất của Map vào Reduce Processor
-*Thực thi mã Reduce() được cung cấp bởi người dùng
-*Tạo dữ liệu xuất cuối cùng
+* Chuẩn bị dữ liệu đầu vào cho Map()
+* Thực thi mã Map() được cung cấp bởi người dùng
+* Trộn dữ liệu xuất của Map vào Reduce Processor
+* Thực thi mã Reduce() được cung cấp bởi người dùng
+* Tạo dữ liệu xuất cuối cùng
 
 **Luồng dữ liệu (dataflow) của nền tảng MapReduce:**
 
-*Input Reader
-*Map Function
-*Partition Function
-*Compare Function
-*Reduce Function
-*Output Writer
+* Input Reader
+* Map Function
+* Partition Function
+* Compare Function
+* Reduce Function
+* Output Writer
 
 
 
